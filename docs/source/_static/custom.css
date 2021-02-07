@@ -3,56 +3,56 @@ td {
 }
 
 a {
-    color: #b0604b;
+    color: #4f9fb4;
 }
 
 a:hover {
-    color: #ad9088;
+    color: #526f77;
 }
 
 p {
-    color: #353535;
+    color: #cacaca;
 }
 
 dl.function {
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #333;
 }
 
 .sidebar-toc ul li a:hover {
-    background-color: #e07a5f;
+    background-color: #1f85a0;
 }
 
 .text-logo {
-    background-color: #525893;
+    background-color: #ada76c;
 }
 
 h1 {
-    background-color: #d7d8e6;
-    border-bottom: 1px solid #525893;
+    background-color: #282719;
+    border-bottom: 1px solid #ada76c;
 }
 
 .admonition.tip {
-    border-left-color: #87c2a5;
+    border-left-color: #783d5a;
 }
 
 .admonition.tip .admonition-title {
-    color: #87c2a5;
+    color: #783d5a;
 }
 
 .admonition.note {
-    border-left-color: #525893;
+    border-left-color: #ada76c;
 }
 
 .admonition.note .admonition-title {
-    color: #525893;
+    color: #ada76c;
 }
 
 .admonition.warning {
-    border-left-color: #e07a5f;
+    border-left-color: #1f85a0;
 }
 
 .admonition.warning .admonition-title {
-    color: #e07a5f;
+    color: #1f85a0;
 }
 
 img.align-center {
@@ -68,26 +68,26 @@ img {
 }
 
 div.highlight {
-    background-color: #fafafa;
+    background-color: #050505;
     margin: 8px 0;
 }
 
 div.highlight pre {
     background-color: inherit;
-    border-color: #525893;
+    border-color: #ada76c;
 }
 
 div.seealso {
-    background-color: #d9edf7;
-    border: 1px solid #525893;
+    background-color: #261208;
+    border: 1px solid #ada76c;
 }
 
 .footer-relations a.btn.btn-default {
     display: flex;
     align-items: center;
     background-image: none;
-    color: #b0604b;
-    border-color: #b0604b;
+    color: #4f9fb4;
+    border-color: #4f9fb4;
 }
 
 .footer-relations .pull-left a.btn.btn-default::before {
@@ -106,9 +106,9 @@ div.seealso {
 
 .footer-relations a.btn.btn-default:hover {
     background-image: none;
-    background-color: #b0604b;
-    color: #fff;
-    border-color: #b0604b;
+    background-color: #4f9fb4;
+    color: #000;
+    border-color: #4f9fb4;
     transition: all 0.3s ease;
     text-shadow: none;
 }
@@ -120,9 +120,9 @@ div.seealso {
 }
 
 .manim-example {
-    background-color: #525893;
+    background-color: #ada76c;
     margin-bottom: 50px;
-    box-shadow: 2px 2px 4px #ddd;
+    box-shadow: 2px 2px 4px #222;
 }
 
 .manim-example .manim-video {
@@ -137,14 +137,14 @@ h5.example-header {
     font-size: 18px;
     font-weight: bold;
     padding: 8px 16px;
-    color: white;
+    color: black;
     margin: 0;
     font-family: inherit;
 }
 
 .manim-example .highlight {
-    background-color: #fafafa;
-    border: 2px solid #525893;
+    background-color: #050505;
+    border: 2px solid #ada76c;
     padding: 8px 8px 16px 8px;
     margin: 0;
 }
@@ -164,7 +164,7 @@ h5.example-header {
 .manim-example .admonition-title {
     font-size: 14px;
     font-weight: 500;
-    color: white;
+    color: black;
 }
 
 .manim-example .example-reference {
